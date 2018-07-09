@@ -1,0 +1,6 @@
+ios_base::sync_with_stdio(false)
+cin.tie(NULL);
+cout.tie(NULL);
+
+=> 위의 코드를 작성하면 C++ cout/cin 사용시 속도가 빨라진다.
+=> 입출력 시 입출력을 최대한 적게 사용하고 문자열 사용을 적게해야 프로그램의 속도가 빨라진다.
