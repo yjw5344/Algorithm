@@ -1,24 +1,25 @@
-#include<iostream>
-#include<vector>
+#include <iostream>
+#include <math.h>
 
 using namespace std;
 
 int main(){
+  long long num = 3;
 
-  int n = 10;
-  vector<bool> arr;
-  arr.resize(n);
+  long long num1 = (long long)sqrt(num);
 
-  for(int i = 0;i<n;i++){
-    arr[i] = i;
+  int num2 = sqrt(num);
+
+
+  cout << (long long)sqrt(num) << endl;
+  cout << (double)sqrt(num) << endl;
+  cout << (int)sqrt(num) << endl;
+  cout << " ======= " << endl;
+  cout << (sqrt(num) - (int)sqrt(num)) << endl;
+
+  if((sqrt(num) - (int)sqrt(num)) > 0){
+    cout << "!!!" << endl;
   }
-
-  cout << " ========= " << endl;
-  cout << arr[1] << endl;
-  cout << arr.at(0) << endl;
-  cout << arr.at(1) << endl;
-
-
 
 
   return 0;
