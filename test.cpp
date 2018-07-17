@@ -1,26 +1,27 @@
 #include <iostream>
-#include <math.h>
+#include <vector>
+#include <algorithm>
+#include <string>
 
 using namespace std;
 
-int main(){
-  long long num = 3;
+int main() {
+  vector<string> arr;
+  arr.push_back("abcz");
+  arr.push_back("abce");
+  arr.push_back("abcd");
 
-  long long num1 = (long long)sqrt(num);
-
-  int num2 = sqrt(num);
-
-
-  cout << (long long)sqrt(num) << endl;
-  cout << (double)sqrt(num) << endl;
-  cout << (int)sqrt(num) << endl;
-  cout << " ======= " << endl;
-  cout << (sqrt(num) - (int)sqrt(num)) << endl;
-
-  if((sqrt(num) - (int)sqrt(num)) > 0){
-    cout << "!!!" << endl;
+  for(int i = 0 ; i < arr.size() ; i++){
+    cout << arr[i] << endl;
   }
 
+  cout << "=====" << endl;
+
+  sort(arr.begin(),arr.end());
+
+  for(int i = 0 ; i < arr.size() ; i++){
+    cout << arr[i] << endl;
+  }
 
   return 0;
 }
