@@ -5,11 +5,19 @@ using namespace std;
 
 string solution(string s, int n) {
     for(int i = 0 ; i < s.length(); i++){
-      s[i] += n;
-      if(s[i] > 'z' || s[i] > 'Z'){
-        s[i] -= 26;
+      if(islower(s[i])){
+        s[i] += n;
+        if(!islower(s[i])){
+          s[i] -= 26;
+        }
       }
 
+      if(isupper(s[i])){
+        s[i] += n;
+        if(!isupper(s[i])){
+          s[i] -= 26;
+        }
+      }
     }
     return s;
 }
