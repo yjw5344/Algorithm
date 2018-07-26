@@ -1,6 +1,10 @@
 #include <string>
 #include <vector>
 
+
+// int -> string
+// to_string을 사용해서 정수를 문자열로 바꿔준다.
+
 using namespace std;
 
 string solution(vector<string> seoul) {
@@ -14,7 +18,3 @@ string solution(vector<string> seoul) {
     }
     return answer;
 }
-
-
-// int -> string
-// to_string을 사용해서 정수를 문자열로 바꿔준다.
