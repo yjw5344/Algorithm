@@ -26,5 +26,16 @@ int main(){
   sort(str.begin(), str.end(),greater<string>())  // sort(v.begin(), v.end(), greater<자료형>()) -> 내림차순
   sort(v.begin(), v.end(), compare);              // 사용자 정의 함수 사용하여 정렬
 
+
+  // ## 특정 문자열을 찾는 함수
+  str.find("원하는 문자열");  // find 함수는 찾는 문자열의 첫번째 인덱스를 반환한다.
+  str.npos                // 원하는 문자열을 못 찾을 경우 npos를 반환한다.
+
+
+  to_string()   // int    -> string
+  stoi()        // string -> int
+
+
+
   return 0;
 }
