@@ -31,14 +31,32 @@ double puncha(vector<double>arr, int count){
 
 int main(){
 
-vector<double> tmp;
-tmp.push_back(1);
-tmp.push_back(2);
-tmp.push_back(3);
-tmp.push_back(4);
-tmp.push_back(5);
 
-cout << puncha(tmp, 5) << endl;
+  int n1;
+  int n2;
+  vector<double> arr;
+  vector<double> result;
 
-return 0;
+  cin >> n1 >> n2;
+
+  for(int i = 0 ; i< n1 ; i++){
+    int num;
+    cin >> num;
+    arr.push_back(num);
+  }
+
+  for(int i = n2 ; i <= n1 ; i++){
+    for(int z = 0 ; z <= (n1 - i) ; z ++){
+      vector<double> tmp;
+      for(int j = 0 ; j < i ; j++){
+        tmp.push_back(arr.at(z+j));
+      }
+      result.push_back(puncha(tmp,i));
+    }
+  }
+
+  sort(result.begin(), result.end());
+  cout << result.at(0) << endl;
+
+  return 0;
 }
