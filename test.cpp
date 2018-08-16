@@ -16,7 +16,7 @@ int main(){
 
   int n1 = 10;
   int n2 = 9;
-  cout << max(arr.begin(), arr.end()) << endl;
+  cout << *max_element(arr.begin(), arr.end()) << endl;
 
 
 
