@@ -1,24 +1,47 @@
-#include <iostream>
-#include <vector>
-#include <algorithm>
-
+#include<iostream>
 using namespace std;
 
+class Test{
+  public:
+    int num;
+
+  public:
+    Test(int num) {
+      this->num = num;
+    }
+    void show(){
+      num = 10;
+      cout << num << endl;
+    }
+
+    void print() {
+      cout << "print" << endl;
+    }
+
+    void print() const{
+      // this -> num = 1;
+      cout << "print Const" << endl;
+    }
+};
+
+
+int func(int &num){
+  cout << num << endl;
+  cout << &num << endl;
+
+}
+
 int main(){
-  vector<int> arr;
+  int num = 10;
+  // cout << &num << endl;
+  // func(num);
 
-  arr.push_back(1);
-  arr.push_back(12);
-  arr.push_back(13);
-  arr.push_back(4);
-  arr.push_back(5);
-  arr.push_back(6);
+  Test test(4);
+  test.show();
+  test.print();
 
-  int n1 = 10;
-  int n2 = 9;
-  cout << *max_element(arr.begin(), arr.end()) << endl;
-
-
-
+  const Test test2(5);
+  // test2.show();
+  test2.print();
   return 0;
 }
