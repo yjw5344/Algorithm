@@ -1,0 +1,3 @@
+/Users/jungwon/Desktop/Kakao/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/jungwon/Desktop/Kakao/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/jungwon/Desktop/Kakao/cmake-build-debug/CMakeFiles/Kakao.dir

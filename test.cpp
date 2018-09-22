@@ -1,47 +1,33 @@
-#include<iostream>
+#include <iostream>
+#include <string>
+#include <map>
+#include <algorithm>
+
 using namespace std;
 
-class Test{
-  public:
-    int num;
-
-  public:
-    Test(int num) {
-      this->num = num;
-    }
-    void show(){
-      num = 10;
-      cout << num << endl;
-    }
-
-    void print() {
-      cout << "print" << endl;
-    }
-
-    void print() const{
-      // this -> num = 1;
-      cout << "print Const" << endl;
-    }
-};
-
-
-int func(int &num){
-  cout << num << endl;
-  cout << &num << endl;
-
-}
-
 int main(){
-  int num = 10;
-  // cout << &num << endl;
-  // func(num);
 
-  Test test(4);
-  test.show();
-  test.print();
+  pair< int, double >tmp;
 
-  const Test test2(5);
-  // test2.show();
-  test2.print();
+
+  tmp.make_pair(3,0.3);
+  tmp.make_pair(13,0.13);
+  tmp.make_pair(23,0.23);
+  tmp.make_pair(1,0.1);
+  tmp.make_pair(7,0.7);
+  tmp.make_pair(2,0.2);
+
+  sort(tmp.begin(), tmp.end());
+
+  for(int i = 0 ; i< tmp.size() ; i++){
+    cout << tmp.at(i).first << tmp.at(i).second << endl;
+  }
+
+
+
+
+
+
+
   return 0;
 }
