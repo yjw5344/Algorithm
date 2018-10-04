@@ -1,6 +1,7 @@
 #include <string>
 #include <vector>
 #include <algorithm>
+#include <iostream>
 
 using namespace std;
 
@@ -77,5 +78,24 @@ vector<int> solution(int N, vector<vector<int>> directory, vector<vector<int>> q
         }
     }
     return answer;
+}
+
+int main(){
+    int N = 5;
+    vector<vector<int>> directory;
+    vector<vector<int>> query;
+    vector<int> result;
+
+    vector<int> a;
+    a.push
+
+    result = solution(N,directory,query);
+
+    for(int i = 0 ; i< result.size(), i++){
+        cout << result.at(i) << endl;
+    }
+
+
+    return 0;
 }
 

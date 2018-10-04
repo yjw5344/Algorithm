@@ -1,4 +1,4 @@
-# Install script for directory: /Users/jungwon/Desktop/LG CNS/4번
+# Install script for directory: /Users/jungwon/Data_Folder/Github/Algorithm/LG CNS/4번
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -40,5 +40,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/Users/jungwon/Desktop/LG CNS/4번/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/Users/jungwon/Data_Folder/Github/Algorithm/LG CNS/4번/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
