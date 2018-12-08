@@ -1,4 +1,3 @@
-// 아직 다 못 푼 문제
 #include <string>
 #include <vector>
 
@@ -7,19 +6,23 @@ using namespace std;
 
 vector<int> solution(vector<int> prices) {
   vector<int> answer;
-  for(int i = 0 ; i < prices.size(); i++ ){
-    int originalNum = prices.at(i);
+  answer.resize(prices.size());
+
+  for(int i = 0 ; i < prices.size() ; i++){
     int cnt = 0;
-    for(int j = i ; j < prices.size(); j++){
-      int compareNum = prices.at(j);
-      if( originalNum != compareNum){
-        cnt++;
-        if(originalNum > compareNum){
-          answer.push_back(cnt);
+    int pNum = prices.at(i);
+    for(int j = i+1 ; j < prices.size();j++){
+      int cNum = prices.at(j);
+      cnt++;
+      if(j == (prices.size()-1)){
+        break;
+      }else{
+        if(cNum < pNum){
           break;
         }
       }
     }
+    answer.at(i) = cnt;
   }
   return answer;
 }
