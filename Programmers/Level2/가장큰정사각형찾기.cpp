@@ -7,25 +7,24 @@ int checkMin(int a, int b, int c) {
     return (a > b) ? ((b > c) ? c : b) : ((a > c) ? c : a);
 }
 
-int solution(vector< vector<int> > board)
-{
+int solution(vector< vector<int> > board) {
     int answer = 0;
     int rowSize = board.size();
     int colSize = board.at(0).size();
 
-    for(int row = 1 ; row < rowSize ; row++){
+    for(int row = 1 ; row < rowSize ; row++) {
         for(int col = 1 ; col < colSize ; col++){
-            if( board.at(row).at(col) != 0) {
+            if(board.at(row).at(col) != 0 ) {
                 int minNum = checkMin(board.at(row-1).at(col-1), board.at(row-1).at(col), board.at(row).at(col-1)) + 1;
                 board.at(row).at(col) = minNum;
             }
         }
     }
-
     vector<int> maxArr;
     for(int i = 0; i < rowSize ; i++){
-        for(int j = 0 ; j < colSize ; j++)
+        for(int j = 0 ; j < colSize ; j++){
             maxArr.push_back(board.at(i).at(j));
+        }
     }
     answer = *max_element(maxArr.begin(), maxArr.end());
     return answer*answer;
