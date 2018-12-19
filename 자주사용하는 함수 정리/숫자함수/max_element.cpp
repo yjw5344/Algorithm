@@ -1,8 +1,6 @@
 #include <iostream>
 #include <algorithm>
 #include <vector>
-
-
 using namespace std;
 
 int main(){
@@ -21,7 +19,8 @@ int main(){
   cout << "vector의 최대값 출력!! : ";
   cout << *max_element(arr.begin() , arr.end()) << endl;
 
-
+  // 최소값을 구하는 경우
+  // *min_element() 함수를 이용!
 
   return 0;
 }

@@ -1,0 +1,10 @@
+알고리즘 구현 팁! (백준 강의)
+
+> 입출력(cout, cin)을 최대한 적게 사용하고 문자열 사용을 적게해야 프로그램의 속도가 빨라진다.
+
+/* 코드 */
+  ios_base::sync_with_stdio(false)
+  cin.tie(NULL);
+  cout.tie(NULL);
+
+> 입출력 시, 위의 코드를 이용하여 "cout/cin"을 사용하면 속도가 빨라진다.

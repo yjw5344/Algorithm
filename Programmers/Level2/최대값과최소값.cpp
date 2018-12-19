@@ -31,17 +31,3 @@ string solution(string s) {
 
   return answer;
 }
-
-
-//  다른 사람 코드 참고!!!
-// while (true)
-// {
-//     int pos = s.find(" ");
-//     szTemp = s.substr(0, pos);
-//     s = s.substr(pos + 1);
-//     nMinMax.first = min(nMinMax.first, stoi(szTemp));
-//     nMinMax.second = max(nMinMax.second, stoi(szTemp));
-//
-//     if (pos == s.npos)
-//         break;
-// }
