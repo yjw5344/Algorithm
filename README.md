@@ -80,37 +80,6 @@
 ---
 
 ## 백준
-> <문제 풀이>
->
-> [1000번 ~ 2000번](#1000번)
->
-> [2001번 ~ 3000번](#2309번)
->
-> [3001번 ~ 4000번](#)
->
-> [4001번 ~ 5000번](#4344번)
->
-> [5001번 ~ 6000번](#5575번)
->
-> [6001번 ~ 7000번](#)
->
-> [7001번 ~ 8000번](#7287번)
->
-> [8001번 ~ 9000번](#8393번)
->
-> [9001번 ~ 10000번](#9095번)
->
-> [10001번 ~ 11000번](#10172번)
->
-> [11101번 ~ 12000번](#11047번)
->
-> [12001번 ~ 13000번](#)
->
-> [13001번 ~ 14000번](#13235번)
->
-
-
-
 
 | 문제 | 코드 |
 |:-----|:-----:|
@@ -139,7 +108,7 @@
 | [2747번](https://www.acmicpc.net/problem/2747) | [cpp]([2]Backjoon/back_2747.cpp)|
 | [2750번](https://www.acmicpc.net/problem/2750) | [cpp]([2]Backjoon/back_2750.cpp)|
 | [2751번](https://www.acmicpc.net/problem/2751) | [cpp]([2]Backjoon/back_2751.cpp)|
-| [2839번](https://www.acmicpc.net/problem/2839) | [cpp]([2]Backjoon/back_2839.cpp)|
+| [2839번](https://www.acmicpc.net/problem/2839) | [c]([2]Backjoon/back_2839.c)|
 | [4344번](https://www.acmicpc.net/problem/4344) | [cpp]([2]Backjoon/back_4344.cpp)|
 | [5575번](https://www.acmicpc.net/problem/5575) | [cpp]([2]Backjoon/back_5575.cpp)|
 | [7287번](https://www.acmicpc.net/problem/7287) | [cpp]([2]Backjoon/back_7287.cpp)|
@@ -166,4 +135,9 @@
 | [13235번](https://www.acmicpc.net/problem/13235) | [cpp]([2]Backjoon/back_13235.cpp)|
 
 ---
+
 ## SwExpertAcademy
+
+| 문제 | 코드 |
+|:-----|:-----:|
+| 1859번 | [cpp]([3]SW_Expert_Academy/swExpert_1859.cpp)|
