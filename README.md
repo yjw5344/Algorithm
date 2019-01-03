@@ -8,4 +8,4 @@
 ## Level1
 | 문제 | 코드 |
 |:-----:|:-----:|
-| [소수찾기](https://programmers.co.kr/learn/courses/30/lessons/14406) | [cpp](/[1] Programmers/Level1/소수찾기.cpp)|
+| [소수찾기](https://programmers.co.kr/learn/courses/30/lessons/14406) | [cpp](./[1] Programmers/Level1/소수찾기.cpp)|
