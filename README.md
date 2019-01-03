@@ -5,12 +5,12 @@
 
 ## > 프로그래머스
 >
-> [Level 1](#Level 1) 풀이
+> [Level 1](#Level1) 풀이
 >
-> [Level 2](#Level 2) 풀이
+> [Level 2](#Level2) 풀이
 >
 
-### Level 1
+### Level1
 | 문제 | 코드 |
 |:-----|:-----:|
 | [2016년](https://programmers.co.kr/learn/courses/30/lessons/12901) | [cpp]([1]Programmers/Level1/2016년.cpp)|
@@ -50,4 +50,4 @@
 | [N으로표현](https://programmers.co.kr/learn/courses/30/lessons/14406) | [cpp]([1]Programmers/Level1/N으로표현.cpp)|
 | [x만큼간격이있는n개의숫자](https://programmers.co.kr/learn/courses/30/lessons/14406) | [cpp]([1]Programmers/Level1/x만큼간격이있는n개의숫자.cpp)|
 
-### Level 2
+### Level2
