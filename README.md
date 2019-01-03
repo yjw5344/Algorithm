@@ -1,13 +1,17 @@
 # 알고리즘 문제 풀이
 
-[프로그래머스](https://programmers.co.kr/), [백준](https://www.acmicpc.net/), [SW Expert Academy](https://swexpertacademy.com/main/main.do) 의 알고리즘 연습문제 풀이입니다.
-<br><br><br><br>
+프로그래머스, 백준, SW Expert Academy 의 알고리즘 연습문제 풀이입니다.
 
-## > 프로그래머스
+## 목차
+- [프로그래머스](#프로그래머스) ([사이트](https://programmers.co.kr/))
+- [백준](#백준) ([사이트](https://www.acmicpc.net/))
+- [SW Expert Academy](#SwExpertAcademy)([사이트](https://swexpertacademy.com/main/main.do))
+---
+## 프로그래머스
 >
-> [Level 1](#Level1) 풀이
+> [Level 1](#Level1) 문제 풀이
 >
-> [Level 2](#Level2) 풀이
+> [Level 2](#Level2) 문제 풀이
 >
 
 ### Level1
@@ -40,7 +44,7 @@
 | [제일작은수제거하기](https://programmers.co.kr/learn/courses/30/lessons/14406) | [cpp]([1]Programmers/Level1/제일작은수제거하기.cpp)|
 | [짝수와홀수](https://programmers.co.kr/learn/courses/30/lessons/14406) | [cpp]([1]Programmers/Level1/짝수와홀수.cpp)|
 | [체육복](https://programmers.co.kr/learn/courses/30/lessons/14406) | [cpp]([1]Programmers/Level1/체육복.cpp)|
-| [최대공약> 와최소공배수](https://programmers.co.kr/learn/courses/30/lessons/14406) | [cpp]([1]Programmers/Level1/최대공약구와최소공배수.cpp)|
+| [최대공약구와최소공배수](https://programmers.co.kr/learn/courses/30/lessons/14406) | [cpp]([1]Programmers/Level1/최대공약구와최소공배수.cpp)|
 | [콜라츠추측](https://programmers.co.kr/learn/courses/30/lessons/14406) | [cpp]([1]Programmers/Level1/콜라츠추측.cpp)|
 | [평균구하기](https://programmers.co.kr/learn/courses/30/lessons/14406) | [cpp]([1]Programmers/Level1/평균구하기.cpp)|
 | [하샤드수](https://programmers.co.kr/learn/courses/30/lessons/14406) | [cpp]([1]Programmers/Level1/하샤드수.cpp)|
@@ -51,3 +55,8 @@
 | [x만큼간격이있는n개의숫자](https://programmers.co.kr/learn/courses/30/lessons/14406) | [cpp]([1]Programmers/Level1/x만큼간격이있는n개의숫자.cpp)|
 
 ### Level2
+
+
+## 백준
+
+## SwExpertAcademy
