@@ -8,6 +8,7 @@ int main(){
    // 우선순위 큐
    // 우선순위로 큐를 정렬해준다.
    // priority_queue<int, vector<int>, greater<int>> pq; => 기본 형태이다.
+   // priority_queue<int, vector<int>, less<int>> pq;
 
    priority_queue< pair < int, int >, vector< pair < int, int > >, less< pair < int, int > > > pq;
 
