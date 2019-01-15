@@ -33,7 +33,6 @@ int solution(vector<int> numbers, int target) {
 int main(){
   vector<int> testArr;
   int target = 3;
-
   testArr.push_back(1);
   testArr.push_back(1);
   testArr.push_back(1);
