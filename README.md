@@ -124,6 +124,7 @@
 | [10718번](https://www.acmicpc.net/problem/10718) | [cpp]([2]Backjoon/back_10718.cpp)|
 | [10809번](https://www.acmicpc.net/problem/10809) | [cpp]([2]Backjoon/back_10809.cpp)|
 | [10817번](https://www.acmicpc.net/problem/10817) | [cpp]([2]Backjoon/back_10817.cpp)|
+| [10845번](https://www.acmicpc.net/problem/10845) | [cpp]([2]Backjoon/back_10845.cpp)|
 | [10869번](https://www.acmicpc.net/problem/10869) | [cpp]([2]Backjoon/back_10869.cpp)|
 | [10871번](https://www.acmicpc.net/problem/10871) | [cpp]([2]Backjoon/back_10871.cpp)|
 | [10989번](https://www.acmicpc.net/problem/10989) | [cpp]([2]Backjoon/back_10989.cpp)|
