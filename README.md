@@ -79,6 +79,7 @@
 | [행렬의곱](https://programmers.co.kr/learn/courses/30/lessons/12949) | [cpp]([1]Programmers/Level2/행렬의곱.cpp)|
 | [JadenCase문자열만들기](https://programmers.co.kr/learn/courses/30/lessons/12951) | [cpp]([1]Programmers/Level2/JadenCase문자열만들기.cpp)|
 | [N개의최소공배수](https://programmers.co.kr/learn/courses/30/lessons/12953) | [cpp]([1]Programmers/Level2/N개의최소공배수.cpp)|
+| [다리를지나는트럭](https://programmers.co.kr/learn/courses/30/lessons/42583) | [cpp]([1]Programmers/Level2/다리를지나는트럭.cpp)|
 
 ---
 
