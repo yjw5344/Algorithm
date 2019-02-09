@@ -6,15 +6,17 @@ import java.util.Queue;
 public class List_Queue {
 
     // Queue의 주요 메서드
-    // peek()
-    // offer()
-    // poll()
-    // element()
-    // remove()
-    // add()
+    // peek()       -> Queue에 front 원소를 반환
+    // offer()      -> Queue에 원소를 추가
+    // poll()       -> Queue의 front 원소를 반환
+    // element()    -> Queue의 front 원소를 반환
+    // remove()     -> Queue의 front 값을 제거
+    // add()        -> Queue에 원소를 추가
 
     public static void main(String[] args) {
+        // Quque를 선언하는 방법이 여러 종류가 있음,, But LinkedList로 선언하는 것이 제일 보편적이다.
         Queue<Integer> qu = new LinkedList<Integer>();
+        //LinkedList<Integer> queue = new LinkedList<Integer>();
 
         qu.offer(10);
         qu.offer(13);
@@ -29,8 +31,10 @@ public class List_Queue {
         System.out.println("Queue : " + qu);
         System.out.println("[0] Index : " + qu.peek());
 
+
         System.out.println(qu.poll());
         System.out.println(qu);
 
+        // Queue의 다른 메서드는 위의 주석을 참고해서 구현
     }
 }
