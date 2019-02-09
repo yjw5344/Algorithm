@@ -8,15 +8,15 @@ import java.util.LinkedList;
 // * LinkedList -> 추가/삭제를 할 때 주로 사용  ex) queue, dequeue
 
 // (1) ArrayList
-// add()
-// get()
-// size()
-// contains()
-// remove(object) - object를 찾아서 삭제한다.
-// remove(index) - index의 원소를 삭제한다.
-// isEmpty() - ArrayList가 비어있는지 확인한다.
-// clear() - ArrayList를 초기화한다.
-// toArray() - ArrayList를 배열로 변환한다.
+// add(object)      - object를 ArrayList에 추가한다.
+// get(int index)   - index의 원소를 반환한다.
+// size()           - ArrayList의 사이즈를 반환한다.
+// contains(object) - ArrayList의 object 유무를 true, false 형태로 반환한다.
+// remove(object)   - object를 찾아서 삭제한다.
+// remove(index)    - index의 원소를 삭제한다.
+// isEmpty()        - ArrayList가 비어있는지 확인한다.
+// clear()          - ArrayList를 초기화한다.
+// toArray()        - ArrayList를 배열로 변환한다.
 
 // (2) LinkedList
 // add() -> 원소를 추가
@@ -32,7 +32,7 @@ import java.util.LinkedList;
 // set(int index, Object object) -> index 위치의 원소를 object로 변경한다.
 // toArray() -> 리스트를 배열로 변환한다.
 
-public class List {
+public class DataStructure_ArrayList_LinkedList {
     public static void main(String[] args) {
 
         // 1차원 배열

@@ -3,7 +3,7 @@ package 기초정리.자료형;
 import java.util.LinkedList;
 import java.util.Queue;
 
-public class List_Queue {
+public class DataStructure_Queue {
 
     // Queue의 주요 메서드
     // peek()       -> Queue에 front 원소를 반환
@@ -30,6 +30,9 @@ public class List_Queue {
 
         System.out.println("Queue : " + qu);
         System.out.println("[0] Index : " + qu.peek());
+
+
+        System.out.println("Element : " + qu.element());
 
 
         System.out.println(qu.poll());

@@ -2,7 +2,7 @@ package 기초정리.자료형;
 
 import java.util.*;
 
-public class List_Deque {
+public class DataStructure_Deque {
     // Deque -> 덱의 경우, LinkedList의 형태로 front와 end에서 원소를 push, pop 할 수 있다.
 
     // Deque의 메서드
@@ -63,5 +63,6 @@ public class List_Deque {
         System.out.println("pop() : " + ((ArrayDeque<Integer>) deque1).pop());
 
         // Deque의 나머지 메서드는 참고해서 구현!
+
     }
 }
