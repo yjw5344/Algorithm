@@ -70,7 +70,7 @@
 | [올바른괄호](https://programmers.co.kr/learn/courses/30/lessons/12909) | [cpp](C++/[1]Programmers/Level2/올바른괄호.cpp)|
 | [전화번호목록](https://programmers.co.kr/learn/courses/30/lessons/42577) | [cpp](C++/[1]Programmers/Level2/전화번호목록.cpp)|
 | [주식가격](https://programmers.co.kr/learn/courses/30/lessons/42584) | [cpp](C++/[1]Programmers/Level2/주식가격.cpp)|
-| [최대값과최소값](https://programmers.co.k r/learn/courses/30/lessons/12939) | [cpp](C++/[1]Programmers/Level2/최대값과최소값.cpp)|
+| [최대값과최소값](https://programmers.co.kr/learn/courses/30/lessons/12939) | [cpp](C++/[1]Programmers/Level2/최대값과최소값.cpp)|
 | [최소값만들기](https://programmers.co.kr/learn/courses/30/lessons/12941) | [cpp](C++/[1]Programmers/Level2/최소값만들기.cpp)|
 | [타겟넘버](https://programmers.co.kr/learn/courses/30/lessons/43165) | [cpp](C++/[1]Programmers/Level2/타겟넘버.cpp)|
 | [탑](https://programmers.co.kr/learn/courses/30/lessons/42588) | [cpp](C++/[1]Programmers/Level2/탑.cpp)|
@@ -85,7 +85,7 @@
 | [더맵게](https://programmers.co.kr/learn/courses/30/lessons/42626) | [cpp](C++/[1]Programmers/Level2/더맵게.cpp)|
 | [H-Index](https://programmers.co.kr/learn/courses/30/lessons/42747) | [cpp](C++/[1]Programmers/Level2/H-Index.cpp)|
 | [가장큰수](https://programmers.co.kr/learn/courses/30/lessons/42746) | [cpp](C++/[1]Programmers/Level2/가장큰수.cpp)|
-| [위장](https://programmers.co.kr/learn/courses/30/lessons/42578) | [Java](Java_Algorithm/src/프로그래머스/Level2.위장.java)|
+| [위장](https://programmers.co.kr/learn/courses/30/lessons/42578) | [Java](Java_Algorithm/src/프로그래머스/Level2/위장.java)|
 
 ---
 
