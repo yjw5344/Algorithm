@@ -2,7 +2,7 @@ package 프로그래머스.Level2;
 
 import java.util.HashMap;
 
-class Solution {
+class Solution_위장 {
     public int solution(String[][] clothes) {
         int answer = 1;
         HashMap<String, Integer> clothsMap = new HashMap<String, Integer>();
@@ -30,8 +30,8 @@ public class 위장 {
         String[][] str2 = {{ "crow_mask", "face" }, { "blue_sunglasses", "face" }, { "smoky_makeup", "face"} };
 
 
-        Solution s= new Solution();
-        System.out.println("str1 : " + s.solution(str1));
-        System.out.println("str2 : " + s.solution(str2));
+        Solution_위장 ss = new Solution_위장();
+        System.out.println("str1 : " + ss.solution(str1));
+        System.out.println("str2 : " + ss.solution(str2));
     }
 }

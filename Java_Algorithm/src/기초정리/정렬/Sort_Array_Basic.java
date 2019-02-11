@@ -73,5 +73,10 @@ public class Sort_Array_Basic {
 
         //=====================
 
+        // 단일 문자열 쪼개는 방법
+        String s123 = "Hello";
+        String[] arr123 = s123.split("");
+        System.out.println(Arrays.toString(arr123));
+
     }
 }
