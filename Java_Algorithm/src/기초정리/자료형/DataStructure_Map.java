@@ -53,5 +53,13 @@ public class DataStructure_Map {
         hashMap.put("b",100);
         System.out.println("b : " + hashMap.get("b"));
 
+        // HashMap   for문 돌리는법
+        // keySet() => key값을 모두 가져온다.
+        // entrySet => Key와 Value값 모두 가져온다.
+
+        for(String key : hashMap.keySet()){
+
+        }
+
     }
 }
