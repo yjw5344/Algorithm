@@ -57,9 +57,25 @@ public class DataStructure_Map {
         // keySet() => key값을 모두 가져온다.
         // entrySet => Key와 Value값 모두 가져온다.
 
-        for(String key : hashMap.keySet()){
 
-        }
+        // 참고
+//        for ( String key : map.keySet() ) {
+//            System.out.println("방법1) key : " + key +" / value : " + map.get(key));
+//        }
+//        System.out.println("=======================");
+//
+//
+//        for ( Map.Entry<String, String> entry : map.entrySet() ) {
+//            System.out.println("방법2) key : " + entry.getKey() +" / value : " + entry.getKey());
+//        }
+//        System.out.println("=======================");
+//
+//
+//        Iterator<String> keys = map.keySet().iterator();
+//        while ( keys.hasNext() ) {
+//            String key = keys.next();
+//            System.out.println("방법3) key : " + key +" / value : " + map.get(key));
+//        }
 
     }
 }

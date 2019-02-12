@@ -41,5 +41,11 @@ public class String_Parsing {
         }
 
 
+        // 단일 문자열 나누기
+        String tmp = "Hello World";
+        String[] tmp_parsing = tmp.split("");
+        System.out.println(Arrays.toString(tmp_parsing));
+
+
     }
 }
