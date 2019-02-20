@@ -42,6 +42,7 @@ public class DataStructure_Map {
 
         System.out.println("Size : " + hashMap.size());
         System.out.println("b : " + hashMap.get("b"));
+        System.out.println("b의 value : " + hashMap.get(2));
 
         System.out.println(hashMap.containsKey("a"));
         System.out.println(hashMap.containsValue(2));

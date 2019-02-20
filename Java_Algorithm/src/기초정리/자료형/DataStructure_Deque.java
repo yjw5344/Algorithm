@@ -33,6 +33,7 @@ public class DataStructure_Deque {
 
         // Deque의 선언 방법 !!
         Queue<Integer> deque1 = new ArrayDeque<Integer>();  // Deque를 선언 할 때 가장 보편적으로 선언하는 방법이다.
+        ArrayDeque<Integer> deque3 = new ArrayDeque<Integer>();
         Queue<Integer> deque2 = new LinkedList<Integer>();  // Deque를 선언 할 때 LinkedList로도 선언이 가능하다.
 
         deque1.offer(1);
@@ -61,6 +62,10 @@ public class DataStructure_Deque {
         System.out.println("peekLast() : " + ((ArrayDeque<Integer>) deque1).peekLast());
 
         System.out.println("pop() : " + ((ArrayDeque<Integer>) deque1).pop());
+
+        System.out.println(deque1);
+        System.out.println(((ArrayDeque<Integer>) deque1).removeFirst());
+        System.out.println(deque1);
 
         // Deque의 나머지 메서드는 참고해서 구현!
 
