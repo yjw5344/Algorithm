@@ -88,6 +88,7 @@
 | [위장](https://programmers.co.kr/learn/courses/30/lessons/42578) | [java](Java_Algorithm/src/프로그래머스/Level2/위장.java)|
 | [스킬트리](https://programmers.co.kr/learn/courses/30/lessons/49993?language=java) | [java](Java_Algorithm/src/프로그래머스/Level2/스킬트리.java)|
 | [숫자야구](https://programmers.co.kr/learn/courses/30/lessons/42841?language=java) | [java](Java_Algorithm/src/프로그래머스/Level2/숫자야구.java)|
+| [소수찾기](https://programmers.co.kr/learn/courses/30/lessons/42839?language=java) | [java](Java_Algorithm/src/프로그래머스/Level2/소수찾기.java)|
 
 ---
 
