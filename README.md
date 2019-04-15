@@ -17,6 +17,8 @@
 >
 > [Level 2](#Level2) 문제 풀이
 >
+> [Level 3](#Level3) 문제 풀이
+>
 
 ### Level1
 | 문제 | 코드 |
@@ -61,7 +63,7 @@
 ### Level2
 | 문제 | 코드 |
 |:-----|:-----:|
-| [124나라의숫자](https://programmers.co.kr/learn/courses/30/lessons/12899) | [cpp](C++/[1]Programmers/Level2/124나라의숫자.cpp)|
+| [124나라의숫자](https://programmers.co.kr/learn/courses/30/lessons/12899) | [cpp](C++/[1]Programmers/Level2/124나라의숫자.cpp)|
 | [가장큰정사각형찾기](https://programmers.co.kr/learn/courses/30/lessons/12905) | [cpp](C++/[1]Programmers/Level2/가장큰정사각형찾기.cpp)|
 | [기능개발](https://programmers.co.kr/learn/courses/30/lessons/42586) | [cpp](C++/[1]Programmers/Level2/기능개발.cpp)|
 | [다음큰숫자](https://programmers.co.kr/learn/courses/30/lessons/12911) | [cpp](C++/[1]Programmers/Level2/다음큰숫자.cpp)|
@@ -89,6 +91,11 @@
 | [스킬트리](https://programmers.co.kr/learn/courses/30/lessons/49993?language=java) | [java](Java_Algorithm/src/프로그래머스/Level2/스킬트리.java)|
 | [숫자야구](https://programmers.co.kr/learn/courses/30/lessons/42841?language=java) | [java](Java_Algorithm/src/프로그래머스/Level2/숫자야구.java)|
 | [소수찾기](https://programmers.co.kr/learn/courses/30/lessons/42839?language=java) | [java](Java_Algorithm/src/프로그래머스/Level2/소수찾기.java)|
+
+### Level3
+| 문제 | 코드 |
+|:-----|:-----:|
+| [베스트앨범](https://programmers.co.kr/learn/courses/30/lessons/42579) | [java](Java_Algorithm/src/프로그래머스/Level3/베스트앨범.java)|
 
 ---
 
