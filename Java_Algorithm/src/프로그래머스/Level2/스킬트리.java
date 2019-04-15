@@ -3,7 +3,7 @@ package 프로그래머스.Level2;
 import java.util.LinkedList;
 import java.util.Queue;
 
-class Solution{
+class Solution_스킬트리{
     public int solution(String skill, String[] skill_trees) {
         int answer = 0;
         boolean flag;
@@ -44,7 +44,7 @@ public class 스킬트리 {
         String skill = "CBD";
         String[] skill_tree = {"BACDE", "CBADF", "AECB", "BDA", "CADFB"};
 
-        Solution s = new Solution();
+        Solution_스킬트리 s = new Solution_스킬트리();
         System.out.println(s.solution(skill,skill_tree));
 
     }

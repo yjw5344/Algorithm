@@ -39,7 +39,7 @@ class GenreSort implements Comparable<GenreSort>{
 }
 
 
-class Solution {
+class Solution_베스트앨범 {
     public int[] solution(String[] genres, int[] plays) {
 
         int songCount = genres.length;
@@ -134,7 +134,7 @@ public class 베스트앨범 {
         int[] plays1 = {400,600,150,2500,500,500};
 
 
-        Solution s = new Solution();
+        Solution_베스트앨범 s = new Solution_베스트앨범();
 
         System.out.println(Arrays.toString(s.solution(genres1, plays1)));
 
