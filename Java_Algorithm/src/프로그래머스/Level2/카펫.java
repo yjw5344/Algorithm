@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Collections;
 
-class Solution_카페 {
+class Solution_카펫 {
     public int[] solution(int brown, int red) {
 
         int[] answer = new int[2];
@@ -53,7 +53,7 @@ class Solution_카페 {
     }
 }
 
-public class 카페 {
+public class 카펫 {
     public static void main(String[] args) {
         int brown1 = 10;
         int red1 = 2;
@@ -62,7 +62,7 @@ public class 카페 {
         int brown3 = 24;
         int red3 = 24;
 
-        Solution_카페 s = new Solution_카페();
+        Solution_카펫 s = new Solution_카펫();
         System.out.println(Arrays.toString(s.solution(brown1, red1)));
         System.out.println(Arrays.toString(s.solution(brown2, red2)));
         System.out.println(Arrays.toString(s.solution(brown3, red3)));
