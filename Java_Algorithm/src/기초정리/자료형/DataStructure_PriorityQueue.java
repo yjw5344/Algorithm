@@ -18,6 +18,9 @@ public class DataStructure_PriorityQueue {
         // todo: PriorityQueue 기본 - 오름차순정렬
         PriorityQueue<Integer> pq = new PriorityQueue<Integer>();
 
+        // todo: PriorityQueue 내림차순정렬 -> 정의 방법
+        //PriorityQueue<Integer> pq1 = new PriorityQueue<Integer>(Collections.reverseOrder());
+
         pq.offer(6);
         pq.add(5);
         pq.offer(11);
