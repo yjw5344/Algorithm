@@ -8,7 +8,7 @@ class Solution_조이스틱 {
         int LMove = leftMove(pivot, name);
         int RMove = rightMove(pivot, name);
 
-        StringBuffer targetName = new StringBuffer();   // 변환해야하는 문자 : "JAN" -> "AAA"
+        StringBuffer targetName = new StringBuffer();
 
         for(int i = 0 ; i < name.length(); i++){
             targetName.append("A");
