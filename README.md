@@ -94,7 +94,7 @@
 | [카펫](https://programmers.co.kr/learn/courses/30/lessons/42842) | [java](Java_Algorithm/src/프로그래머스/Level2/카펫.java)|
 | [라면공장](https://programmers.co.kr/learn/courses/30/lessons/42629) | [java](Java_Algorithm/src/프로그래머스/Level2/라면공장.java)|
 | [조이스틱](https://programmers.co.kr/learn/courses/30/lessons/42860) | [java](Java_Algorithm/src/프로그래머스/Level2/조이스틱.java)|
-| [조이스틱](https://programmers.co.kr/learn/courses/30/lessons/42883) | [java](Java_Algorithm/src/프로그래머스/Level2/큰수만들기.java)|
+| [큰수만들기](https://programmers.co.kr/learn/courses/30/lessons/42883) | [java](Java_Algorithm/src/프로그래머스/Level2/큰수만들기.java)|
 
 
 ### Level3
