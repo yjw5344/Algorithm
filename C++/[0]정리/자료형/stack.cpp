@@ -1,4 +1,4 @@
-q#include <iostream>
+#include <iostream>
 #include <stack>
 using namespace std;
 
