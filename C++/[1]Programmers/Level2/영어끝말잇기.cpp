@@ -32,8 +32,7 @@ vector<int> solution(int n, vector<string> words) {
         answer.at(1) = (i / n + 1);
         return answer;
       }
-    }
-    
+    }    
     return answer;
 
 }
