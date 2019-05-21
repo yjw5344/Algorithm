@@ -2,7 +2,6 @@
 #include <vector>
 #include <iostream>
 #include <map>
-
 using namespace std;
 
 vector<int> solution(int n, vector<string> words) {
