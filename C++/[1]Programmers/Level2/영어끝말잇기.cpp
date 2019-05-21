@@ -33,8 +33,9 @@ vector<int> solution(int n, vector<string> words) {
         return answer;
       }
     }
-    return answer;
     
+    return answer;
+
 }
 
 int main(){
