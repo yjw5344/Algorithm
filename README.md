@@ -97,6 +97,7 @@
 | [큰수만들기](https://programmers.co.kr/learn/courses/30/lessons/42883) | [java](Java_Algorithm/src/프로그래머스/Level2/큰수만들기.java)|
 | [구명보트](https://programmers.co.kr/learn/courses/30/lessons/42885) | [cpp](C++/[1]Programmers/Level2/구명보트.cpp)|
 | [영어끝말잇기](https://programmers.co.kr/learn/courses/30/lessons/12981) | [cpp](C++/[1]Programmers/Level2/영어끝말잇기.cpp)|
+| [예상대진표](https://programmers.co.kr/learn/courses/30/lessons/12985) | [cpp](C++/[1]Programmers/Level2/예상대진표.cpp)|
 
 
 ### Level3
