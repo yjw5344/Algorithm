@@ -100,7 +100,7 @@
 | [예상대진표](https://programmers.co.kr/learn/courses/30/lessons/12985) | [cpp](C++/[1]Programmers/Level2/예상대진표.cpp)|
 | [점프와순간이동](https://programmers.co.kr/learn/courses/30/lessons/12980) | [cpp](C++/[1]Programmers/Level2/점프와순간이동.cpp)|
 | [짝지어제거하기](https://programmers.co.kr/learn/courses/30/lessons/12973) | [cpp](C++/[1]Programmers/Level2/짝지어제거하기.cpp)|
-| [소수만들기](https://programmers.co.kr/learn/courses/30/lessons/12977) | [cpp](C++/[1]Programmers/Level2/짝지어제거하기.cpp)|
+| [소수만들기](https://programmers.co.kr/learn/courses/30/lessons/12977) | [cpp](C++/[1]Programmers/Level2/소수만들기.cpp)|
 
 
 ### Level3
