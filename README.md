@@ -98,6 +98,7 @@
 | [구명보트](https://programmers.co.kr/learn/courses/30/lessons/42885) | [cpp](C++/[1]Programmers/Level2/구명보트.cpp)|
 | [영어끝말잇기](https://programmers.co.kr/learn/courses/30/lessons/12981) | [cpp](C++/[1]Programmers/Level2/영어끝말잇기.cpp)|
 | [예상대진표](https://programmers.co.kr/learn/courses/30/lessons/12985) | [cpp](C++/[1]Programmers/Level2/예상대진표.cpp)|
+| [점프와순간이동](https://programmers.co.kr/learn/courses/30/lessons/12980) | [cpp](C++/[1]Programmers/Level2/점프와순간이동.cpp)|
 
 
 ### Level3
