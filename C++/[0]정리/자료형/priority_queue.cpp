@@ -10,7 +10,10 @@ int main(){
    // priority_queue<int, vector<int>, greater<int>> pq;       오름차순
    // priority_queue<int, vector<int>, less<int>> pq; => 기본 형태이다.  내림차순
 
+   // 쌍으로 이루어 진 경우의 선언부
    priority_queue< pair < int, int >, vector< pair < int, int > >, less< pair < int, int > > > pq;
+   // 우선순위 큐의 기본적인 선언부
+   priority_queue< int, vector<int>, greater<int> > pq;
 
    // pair의 첫번째 인자의 우선순위 순서
    // pair의 첫번째 인자의 우선순위가 같은 경우, 두번째 인자의 우선순위로 판단한다.
