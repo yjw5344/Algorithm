@@ -108,6 +108,7 @@
 |:-----|:-----:|
 | [베스트앨범](https://programmers.co.kr/learn/courses/30/lessons/42579) | [java](Java_Algorithm/src/프로그래머스/Level3/베스트앨범.java)|
 | [이중우선순위큐](https://programmers.co.kr/learn/courses/30/lessons/42628) | [cpp](C++/[1]Programmers/Level3/이중우선순위큐.cpp)|
+| [디스크컨트롤러](https://programmers.co.kr/learn/courses/30/lessons/42627) | [cpp](C++/[1]Programmers/Level3/디스크컨트롤러.cpp)|
 
 ---
 
