@@ -6,7 +6,7 @@
 ## 목차
 - [프로그래머스](#프로그래머스) ([ https://programmers.co.kr/](https://programmers.co.kr/) )
 - [백준](#백준) ( [https://www.acmicpc.net/](https://www.acmicpc.net/) )
-- [SW Expert Academy](#SwExpertAcademy)( [https://swexpertacademy.com/main/main.do](https://swexpertacademy.com/main/main.do) )
+- [SW Expert Academy](#SW_Expert_Academy)( [https://swexpertacademy.com/main/main.do](https://swexpertacademy.com/main/main.do) )
 - [C++ 정리](C++/[0]정리)
 - [Java 정리](Java_Algorithm/src/기초정리)
 
@@ -170,8 +170,9 @@
 
 ---
 
-## SwExpertAcademy
+## SW Expert Academy
 
+### [ Difficulty 1 ]
 | 문제 | 코드 |
 |:-----|:-----:|
 | 2071번 평균값 구하기 | [cpp](C++/[3]SW_Expert_Academy/2071번_평균값구하기.cpp)|
