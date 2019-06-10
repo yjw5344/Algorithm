@@ -6,7 +6,7 @@
 ## 목차
 - [프로그래머스](#프로그래머스) ([ https://programmers.co.kr/](https://programmers.co.kr/) )
 - [백준](#백준) ( [https://www.acmicpc.net/](https://www.acmicpc.net/) )
-- [SW Expert Academy](#SW_Expert_Academy)( [https://swexpertacademy.com/main/main.do](https://swexpertacademy.com/main/main.do) )
+- [SW Expert Academy](#SW-Expert-Academy)( [https://swexpertacademy.com/main/main.do](https://swexpertacademy.com/main/main.do) )
 - [C++ 정리](C++/[0]정리)
 - [Java 정리](Java_Algorithm/src/기초정리)
 
