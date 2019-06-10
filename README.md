@@ -175,6 +175,7 @@
 ### [ Difficulty 1 ]
 | 문제 | 코드 |
 |:-----|:-----:|
+| 2070번 큰 놈, 작은 놈, 같은 놈 | [cpp](C++/[3]SW_Expert_Academy/2070번_큰놈작은놈같은놈.cpp)|
 | 2071번 평균값 구하기 | [cpp](C++/[3]SW_Expert_Academy/2071번_평균값구하기.cpp)|
 | 2072번 홀수만 더하기 | [cpp](C++/[3]SW_Expert_Academy/2072번_홀수만더하기.cpp)|
 | 1859번 백만장자 프로젝트 | [cpp](C++/[3]SW_Expert_Academy/1859번_백만장자프로젝.cpp)|
