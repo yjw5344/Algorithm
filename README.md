@@ -175,6 +175,7 @@
 ### [ Difficulty 1 ]
 | 문제 | 코드 |
 |:-----|:-----:|
+| 2063번 중간값 찾기 | [cpp](C++/[3]SW_Expert_Academy/2063번_중간값찾기.cpp)|
 | 2068번 최대수 구하기 | [cpp](C++/[3]SW_Expert_Academy/2068번_최대수구하기.cpp)|
 | 2070번 큰 놈, 작은 놈, 같은 놈 | [cpp](C++/[3]SW_Expert_Academy/2070번_큰놈작은놈같은놈.cpp)|
 | 2071번 평균값 구하기 | [cpp](C++/[3]SW_Expert_Academy/2071번_평균값구하기.cpp)|
