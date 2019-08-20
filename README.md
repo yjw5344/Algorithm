@@ -110,6 +110,7 @@
 | [이중우선순위큐](https://programmers.co.kr/learn/courses/30/lessons/42628) | [cpp](C++/[1]Programmers/Level3/이중우선순위큐.cpp)|
 | [디스크컨트롤러](https://programmers.co.kr/learn/courses/30/lessons/42627) | [cpp](C++/[1]Programmers/Level3/디스크컨트롤러.cpp)|
 | [예산](https://programmers.co.kr/learn/courses/30/lessons/43237) | [cpp](C++/[1]Programmers/Level3/예산.cpp)|
+| [정수삼각형](https://programmers.co.kr/learn/courses/30/lessons/43105) | [cpp](C++/[1]Programmers/Level3/정수삼각형.cpp)|
 
 
 ---
