@@ -9,6 +9,8 @@ int main(){
 
   string tmp = str.substr(0,5);
   string tmp1 = str.substr(6,3);
+  string tmp2 = str.substr(0,1);
+  string tmp3 = str.substr(0,2);
 
   /*
     * 설명 *
@@ -19,5 +21,7 @@ int main(){
 
   cout << tmp << endl;
   cout << tmp1 << endl;
+  cout << tmp2 << endl;
+  cout << tmp3 << endl;
   return 0;
 }

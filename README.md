@@ -113,6 +113,7 @@
 | [정수삼각형](https://programmers.co.kr/learn/courses/30/lessons/43105) | [cpp](C++/[1]Programmers/Level3/정수삼각형.cpp)|
 | [등교길](https://programmers.co.kr/learn/courses/30/lessons/42898) | [cpp](C++/[1]Programmers/Level3/등교길.cpp)|
 | [네트워크](https://programmers.co.kr/learn/courses/30/lessons/43162) | [cpp](C++/[1]Programmers/Level3/네트워크.cpp)|
+| [섬연결하기](https://programmers.co.kr/learn/courses/30/lessons/42861) | [cpp](C++/[1]Programmers/Level3/섬연결하기.cpp)|
 
 
 ---
