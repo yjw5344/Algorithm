@@ -173,6 +173,10 @@
 | [11726번](https://www.acmicpc.net/problem/11726) | [cpp](C++/[2]Backjoon/back_11726.cpp)|
 | [11727번](https://www.acmicpc.net/problem/11727) | [cpp](C++/[2]Backjoon/back_11727.cpp)|
 | [13235번](https://www.acmicpc.net/problem/13235) | [cpp](C++/[2]Backjoon/back_13235.cpp)|
+| [1978번](https://www.acmicpc.net/problem/1978) | [JS](JavaScript/[2]Backjoon/1978.js)|
+| [2501번](https://www.acmicpc.net/problem/2501) | [JS](JavaScript/[2]Backjoon/2501.js)|
+| [10814번](https://www.acmicpc.net/problem/10814) | [JS](JavaScript/[2]Backjoon/10814.js)|
+| [14500번](https://www.acmicpc.net/problem/14500) | [JS](JavaScript/[2]Backjoon/14500.js)|
 
 ---
 
