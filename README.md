@@ -74,7 +74,7 @@
 | [주식가격](https://programmers.co.kr/learn/courses/30/lessons/42584) |                         [cpp](C++/[1]Programmers/Level2/주식가격.cpp)                         |
 | [최대값과최소값](https://programmers.co.kr/learn/courses/30/lessons/12939) |                       [cpp](C++/[1]Programmers/Level2/최대값과최소값.cpp)                        |
 | [최소값만들기](https://programmers.co.kr/learn/courses/30/lessons/12941) |                        [cpp](C++/[1]Programmers/Level2/최소값만들기.cpp)                        |
-| [타겟넘버](https://programmers.co.kr/learn/courses/30/lessons/43165) |                         [cpp](C++/[1]Programmers/Level2/타겟넘버.cpp)                         |
+| [타겟넘버](https://programmers.co.kr/learn/courses/30/lessons/43165) |                         [cpp](C++/[1]Programmers/Level2/타겟넘버.cpp)/[javascript](JavaScript/[1]Programmers/가장큰수.js)                         |
 | [탑](https://programmers.co.kr/learn/courses/30/lessons/42588) |                          [cpp](C++/[1]Programmers/Level2/탑.cpp)                           |
 | [포켓몬](https://programmers.co.kr/learn/courses/30/lessons/1845) |                         [cpp](C++/[1]Programmers/Level2/포켓몬.cpp)                          |
 | [프린터](https://programmers.co.kr/learn/courses/30/lessons/42587) |                         [cpp](C++/[1]Programmers/Level2/프린터.cpp)                          |
