@@ -1,15 +1,27 @@
 function solution(bridge_length, weight, truck_weights) {
 
+    let time = 0;
     let onBridge = [];
+    let truckSum = 0;
 
-    while (truck_weights.bridge_length > 0) {
-        let popTruck = truck_weights.shift();
+    while (truck_weights.length > 0 || onBridge.length > 0) {
+        time++;        
+        
+        if (onBridge.length > 0) {
+            if (time-onBridge[0].time == bridge_length) {
+                truckSum -= onBridge[0].weight;
+                onBridge.shift();
+            }
+        }
 
-
-    }
-
-    var answer = 0;
-    return answer;
+        if (truck_weights.length > 0) {
+            if (truckSum+truck_weights[0] <= weight) {
+                truckSum += truck_weights[0];
+                onBridge.push({ weight : truck_weights.shift(), time : time});
+            }
+        }
+    }        
+    return time;
 }
 
 let bridge_length1 = 2;
